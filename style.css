@@ -5,7 +5,29 @@ body {
 }
 
 h1 {
+  position: absolute;
+width: 1176px;
+height: 200px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 84px;
+
+color: #000000;
 }
 
 p {
+  position: absolute;
+width: 1093px;
+height: 386px;
+
+font-family: 'Bitter';
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+
+color: #000000;
 }
