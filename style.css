@@ -13,6 +13,10 @@ color: #000000;
 }
 
 p {
+  
+}
+
+body {
   position: absolute;
 width: 1093px;
 height: 386px;
@@ -24,9 +28,6 @@ font-size: 36px;
 line-height: 43px;
 
 color: #000000;
-}
-
-body {
 }
 
 .container {
